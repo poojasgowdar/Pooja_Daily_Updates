@@ -1,6 +1,4 @@
 ﻿using System;
-
-
 namespace Explicit_Typecasting
 {
     internal class Program
