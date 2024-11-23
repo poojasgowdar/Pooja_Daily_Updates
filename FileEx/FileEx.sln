@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEx", "FileEx\FileEx.csproj", "{39CDF871-4977-4EF9-B8A7-946544BA8EA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex", "Ex\Ex.csproj", "{20F07E62-20B5-4F72-B229-DA73BF3EBE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File_OpenOrCreate", "File_OpenOrCreate\File_OpenOrCreate.csproj", "{229B9CB9-00D1-4417-BE25-E5A96A7334E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39CDF871-4977-4EF9-B8A7-946544BA8EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CDF871-4977-4EF9-B8A7-946544BA8EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CDF871-4977-4EF9-B8A7-946544BA8EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CDF871-4977-4EF9-B8A7-946544BA8EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F07E62-20B5-4F72-B229-DA73BF3EBE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F07E62-20B5-4F72-B229-DA73BF3EBE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F07E62-20B5-4F72-B229-DA73BF3EBE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F07E62-20B5-4F72-B229-DA73BF3EBE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229B9CB9-00D1-4417-BE25-E5A96A7334E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229B9CB9-00D1-4417-BE25-E5A96A7334E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229B9CB9-00D1-4417-BE25-E5A96A7334E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229B9CB9-00D1-4417-BE25-E5A96A7334E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFF2A65D-FEE7-4248-A184-695731CE120B}
+	EndGlobalSection
+EndGlobal
