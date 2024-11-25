@@ -8,7 +8,6 @@ namespace Synchronous_Func
 {
     internal class Program
     {
-
         public void Task1()
         {
             Console.WriteLine("Task 1 is running...");
@@ -16,7 +15,6 @@ namespace Synchronous_Func
             Console.WriteLine("Task 1 completed.");
             Console.WriteLine("End of main.");  
         }
-
         public void Task2()
         {
             Console.WriteLine("Task 2 is running...");
