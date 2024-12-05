@@ -21,6 +21,11 @@ namespace Delegates_using_static_non_static
         static void Main(string[] args)
         {
             Calculator c = new Calculator();
+            //CalculatorDelegate c2 = new CalculatorDelegate(c.Sub);
+            //CalculatorDelegate c1 = Calculator.Add;
+            //Add(5, 3);
+            //c.Sub(5, 2);
+
             Calculator.CalculatorDelegate addition = Calculator.Add;  // static method
             Calculator.CalculatorDelegate subtraction = c.Sub; // non-static method
 
